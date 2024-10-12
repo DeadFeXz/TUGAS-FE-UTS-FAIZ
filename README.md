@@ -36,6 +36,10 @@ npm start
 
 The application will open in your default browser at `http://localhost:3000`
 
+## LOGIN
+- Username : admin
+- Password : admin
+
 ## 🖥 Screenshots
 - Login View
 <div align="center">
@@ -46,10 +50,6 @@ The application will open in your default browser at `http://localhost:3000`
 <div align="center">
   <img src="https://i.ibb.co.com/qDd7Hdy/image.png" alt="Dashboard" width="1200"/>
 </div> <br>
-
-## LOGIN
-- Username : admin
-- Password : admin
 
 ## 🤝 Acknowledgments
 - Thanks to all contributors who participated in this project
