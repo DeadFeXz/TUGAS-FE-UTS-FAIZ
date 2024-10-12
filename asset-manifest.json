@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TUGAS-FE-UTS-FAIZ/static/css/main.e2e62c34.css",
+    "main.js": "/TUGAS-FE-UTS-FAIZ/static/js/main.404a57ec.js",
+    "index.html": "/TUGAS-FE-UTS-FAIZ/index.html",
+    "main.e2e62c34.css.map": "/TUGAS-FE-UTS-FAIZ/static/css/main.e2e62c34.css.map",
+    "main.404a57ec.js.map": "/TUGAS-FE-UTS-FAIZ/static/js/main.404a57ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2e62c34.css",
+    "static/js/main.404a57ec.js"
+  ]
+}
