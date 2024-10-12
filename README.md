@@ -47,6 +47,10 @@ The application will open in your default browser at `http://localhost:3000`
   <img src="https://i.ibb.co.com/qDd7Hdy/image.png" alt="Dashboard" width="1200"/>
 </div> <br>
 
+##lOGIN
+Username : admin
+Password : admin
+
 ## 🤝 Acknowledgments
 - Thanks to all contributors who participated in this project
 - Special thanks to the Tailwind CSS team for their comprehensive component library#
